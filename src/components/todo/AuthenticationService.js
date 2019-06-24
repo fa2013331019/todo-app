@@ -15,7 +15,7 @@ class AuthenticationService {
             return false
         }
         return true
-    }
+    } 
 }
 
 export default new AuthenticationService()
